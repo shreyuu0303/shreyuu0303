@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas Dunakhe</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **shreyasdunakhe9921@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
